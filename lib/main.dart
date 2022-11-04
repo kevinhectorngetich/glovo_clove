@@ -171,8 +171,8 @@ class _MyAppState extends State<MyApp> {
               decoration: const BoxDecoration(
                 color: Colors.white,
                 borderRadius: BorderRadius.only(
-                  topLeft: Radius.circular(350.0),
-                  topRight: Radius.circular(350.0),
+                  topLeft: Radius.circular(300.0),
+                  topRight: Radius.circular(300.0),
                 ),
               ),
               child: Column(
